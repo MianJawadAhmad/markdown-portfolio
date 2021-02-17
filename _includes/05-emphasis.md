@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Mobile Application developer*
+_5 years of experiance_
+
+**Full Stack Web developer**
+__3 years of experiance__
+
+_This is my **experties** as developer_
